@@ -4,7 +4,8 @@
 #Author: Carlos Temateu
 #Date: oct 2022
 
-
+apk update -y
+sleep 1
 apk install wget -y
 sleep 1
 apk install net-utils -y
